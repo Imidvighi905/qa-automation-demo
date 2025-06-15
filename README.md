@@ -38,3 +38,19 @@ ProjectG/
 ├── pom.xml                           # Fișierul Maven cu dependențe și build config
 ├── ProjectG.iml                      # Config IntelliJ
 
+---
+
+## 🚀 How to Run the Tests
+
+### Prerequisites:
+- Java 17 or above installed (tested on Java 24)
+- Chrome browser installed
+- [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/) placed under `/drivers/` folder
+
+### Steps:
+
+1. Clone the repository:
+   ```bash
+   git clone "repo name"
+   cd qa-automation-demo
+
